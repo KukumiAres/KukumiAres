@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KukumiAres/KukumiAres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+    ___    ____  ___________
+   /   |  / __ \/ ____/ ___/
+  / /| | / /_/ / __/  \__ \
+ / ___ |/ _, _/ /___ ___/ /
+/_/  |_/_/ |_/_____//____/
+```
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00F9FF&center=true&vCenter=true&width=500&lines=Web+Developer;Self-Hosting+Enthusiast;Antisocial+smart" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+```console
+ares@homelab:~$ whoami
+> Ares · Web-Dev · Self-Hoster
+ares@homelab:~$ cat stack.txt
+> TypeScript · Next.js · Supabase · Docker
+ares@homelab:~$ uptime
+> online seit den 80ern im Herzen
+```
